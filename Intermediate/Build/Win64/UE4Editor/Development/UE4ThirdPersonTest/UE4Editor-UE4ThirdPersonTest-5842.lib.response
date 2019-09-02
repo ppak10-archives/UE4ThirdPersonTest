@@ -3,7 +3,7 @@
 /MACHINE:x64
 /SUBSYSTEM:WINDOWS
 /DEF
-/NAME:"UE4Editor-UE4ThirdPersonTest.dll"
+/NAME:"UE4Editor-UE4ThirdPersonTest-5842.dll"
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4ThirdPersonTestEditor\Development\Engine\SharedPCH.Engine.h.obj"
@@ -16,5 +16,5 @@
 "C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\UE4ThirdPersonTestCharacter.gen.cpp.obj"
 "C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\UE4ThirdPersonTestGameMode.gen.cpp.obj"
 "C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\Default.rc2.res"
-/OUT:"C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\UE4Editor-UE4ThirdPersonTest.lib"
+/OUT:"C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\UE4Editor-UE4ThirdPersonTest-5842.lib"
 /INCLUDE:IMPLEMENT_MODULE_UE4ThirdPersonTest

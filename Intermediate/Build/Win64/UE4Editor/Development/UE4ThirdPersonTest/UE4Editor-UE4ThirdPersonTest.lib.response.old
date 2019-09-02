@@ -7,11 +7,9 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4ThirdPersonTestEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\CustomActor.cpp.obj"
 "C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\UE4ThirdPersonTest.cpp.obj"
 "C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\UE4ThirdPersonTestCharacter.cpp.obj"
 "C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\UE4ThirdPersonTestGameMode.cpp.obj"
-"C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\CustomActor.gen.cpp.obj"
 "C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\UE4ThirdPersonTest.init.gen.cpp.obj"
 "C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\UE4ThirdPersonTestCharacter.gen.cpp.obj"
 "C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\UE4ThirdPersonTestGameMode.gen.cpp.obj"
