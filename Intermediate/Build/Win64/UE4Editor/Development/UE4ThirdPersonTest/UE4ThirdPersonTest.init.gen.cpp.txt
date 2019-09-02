@@ -1,0 +1,3 @@
+C:\Users\ppak1\Documents\Unreal Projects\UE4ThirdPersonTest\Intermediate\Build\Win64\UE4Editor\Development\UE4ThirdPersonTest\Definitions.UE4ThirdPersonTest.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

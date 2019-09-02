@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UE4ThirdPersonTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8C4B6562-BD0F-49BD-AFEF-313CD3C047F0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE4ThirdPersonTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UE4ThirdPersonTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BB77A11D-C103-40E8-AC80-38AAB3A35983}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UE4ThirdPersonTest">
+      <UniqueIdentifier>{964E5591-EC64-4992-A522-53BED981F7FF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE4ThirdPersonTest\UE4ThirdPersonTest.Build.cs">
+      <Filter>Source\UE4ThirdPersonTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UE4ThirdPersonTest\UE4ThirdPersonTest.cpp">
+      <Filter>Source\UE4ThirdPersonTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE4ThirdPersonTest\UE4ThirdPersonTest.h">
+      <Filter>Source\UE4ThirdPersonTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE4ThirdPersonTest\UE4ThirdPersonTestCharacter.cpp">
+      <Filter>Source\UE4ThirdPersonTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE4ThirdPersonTest\UE4ThirdPersonTestCharacter.h">
+      <Filter>Source\UE4ThirdPersonTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE4ThirdPersonTest\UE4ThirdPersonTestGameMode.cpp">
+      <Filter>Source\UE4ThirdPersonTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE4ThirdPersonTest\UE4ThirdPersonTestGameMode.h">
+      <Filter>Source\UE4ThirdPersonTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
